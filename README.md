@@ -1,4 +1,4 @@
-<h1 align="center" >Hi , I'm Pradeep Singh      
+<h1 align="center" >Hi , I'm Swayam Gupts     
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>    
 <p align="center"> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a> 
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=pydeep9026&label=Profile%20views&color=0047AB&style=plastic?" alt="pradeep" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Swayamgupta07&label=Profile%20views&color=0047AB&style=plastic?" alt="pradeep" height=25px, width=160px/> 
 </p>
 
 	
@@ -20,14 +20,11 @@
 
 -I am currently studying computer science engineering
 at srm institute of science and technology,ktr chennai.
-I have completed my Higher Secondary from lucknow
-public college,lucknow and Secondary School from
-st, xavier's high school,hardoi . I am a crypto analyst
-and investor with 2 years of experience and i have a
-youtube channel with 5k+ subscribers and i am currently
+I have completed my Higher Secondary education from Sir 
+Padampat Singhania Education Centre.I am currently
 learning programming and web development..
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/pydeep9026/pydeep9026/files/11069920/Pradeep.sResume.10.pdf)
+- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/Swayamgupta07/Swayamgupta07/files/11358829/resume.pdf)
 
 
 - :boom: You can visit [my website](https://pradeeps.me).
