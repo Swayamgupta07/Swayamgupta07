@@ -27,7 +27,7 @@ learning programming and web development..
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/Swayamgupta07/Swayamgupta07/files/11358829/resume.pdf)
 
 
-- :boom: You can visit [my website](https://pradeeps.me).
+- :boom: You can visit [my website](https://swayamgupta.netlify.app/index.html#home).
 <br>
 
 
@@ -37,9 +37,9 @@ learning programming and web development..
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:pradeepsi2120032@gamil.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/pydeep9026"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/pradeep-singh-b57881207/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:swayamgupta09@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Swayamgupta07"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="linkedin.com/in/swayam-gupta-68b4b4274linkedin.com/in/swayam-gupta-68b4b4274"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
