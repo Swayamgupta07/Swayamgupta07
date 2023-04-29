@@ -95,15 +95,13 @@ learning programming and web development..
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+   
 
 
 </p>
@@ -132,7 +130,7 @@ learning programming and web development..
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pydeep9026&theme=tokyonight_duo" alt="pydeep9026" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayamgupta07&theme=tokyonight_duo" alt="Swayamgupta075" /></p>
 
 </details>
   
@@ -142,8 +140,8 @@ learning programming and web development..
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="pradeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pydeep9026&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="pradeep" height="230px"/>
+	    <img alt="Swayam Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swayamgupta07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayamgupta07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Swayam" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -154,7 +152,7 @@ learning programming and web development..
 
 ----
 	
-[![pydeep9026's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pydeep9026&theme=github	)](https://github.com/pydeep9026/github-readme-activity-graph)
+[![pydeep9026's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swayamgupta07&theme=github	)](https://github.com/Swayamgupta07/github-readme-activity-graph)
 
  
 </details>
@@ -162,13 +160,7 @@ learning programming and web development..
 
 	
 
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/pydeep9026/pydeep9026/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</br>
 
 
 
