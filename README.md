@@ -83,7 +83,7 @@ learning programming and web development..
   </a>
   &emsp;
    <a href="https://www.Java.org" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%2314354C.svg?style=plastic&logo=java&logoColor=white
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white
 ">
   </a>
 </p>
