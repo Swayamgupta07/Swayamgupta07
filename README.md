@@ -32,7 +32,7 @@ I’ve worked with various technologies including:
 - **Others:**  API Development
 
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/17267714/RESUME.pdf))
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/17267714/RESUME.pdf)
 
 
 
@@ -146,42 +146,11 @@ I’ve worked with various technologies including:
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamgupta07&show_icons=true&locale=en&layout=compact" alt="swayamgupta07" /></p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamgupta07&show_icons=true&locale=en" alt="swayamgupta07" /></p>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamgupta07&theme=tokyonight_duo" alt="swayamgupta07" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Swayam Github Stats" src="https://github-readme-stats.vercel.app/api?username=swayamgupta07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamgupta07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="swayam" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![pydeep9026's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swayamgupta07&theme=github	)](https://github.com/swayamgupta07/github-readme-activity-graph)
-
- 
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamgupta07&" alt="swayamgupta07" /></p>
 
 
 	
@@ -191,5 +160,5 @@ I’ve worked with various technologies including:
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/swayamgupta07/pydeep9026/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/swayamgupta07/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
