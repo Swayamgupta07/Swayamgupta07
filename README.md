@@ -160,5 +160,5 @@ I’ve worked with various technologies including:
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/swayamgupta07/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	![snake gif](https://github.com/Swayamgupta07/Swayamgupta07/blob/output/github-contribution-grid-snake.gif)
 </p>
