@@ -1,30 +1,40 @@
-<h1 align="center" >Hi , I'm Swayam Gupta
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>    
-<p align="center"> 
+
+
+
+
+<h1 align="center" >Hi , I'm Swayam Gupta    
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>      
+<p align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a> 
 </p>  
+ 
 
-
-<br>
+<br>   
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Swayamgupta07&label=Profile%20views&color=0047AB&style=plastic?" alt="Swayam" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=pydeep9026&label=Profile%20views&color=0047AB&style=plastic?" alt="swayam" height=25px, width=160px/> 
 </p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+ 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br><br> 
 
--I am currently studying computer science engineering
-at srm institute of science and technology,ktr chennai.
-I have completed my Higher Secondary education from Sir 
-Padampat Singhania Education Centre.I am currently
-learning programming and web development..
+I'm a **Full-Stack Developer**  with a passion for building scalable and efficient applications. I have a strong foundation in **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOP)**, and **Networking**. 
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://github.com/Swayamgupta07/Swayamgupta07/files/11358829/resume.pdf)
+I’ve worked with various technologies including:
+- **Languages:** Python, C++, JavaScript, PHP
+- **Frameworks:** MERN Stack (MongoDB, Express, React, Node.js), **Laravel**
+- **Databases:** MySQL, MongoDB
+- **Tools & Software:** MATLAB, Postman API, Git, Linux
+- **Others:**  API Development
+
+
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/17267714/RESUME.pdf))
+
+
 
 
 - :boom: You can visit [my website](https://swayamgupta.netlify.app/index.html#home).
@@ -39,7 +49,7 @@ learning programming and web development..
 <p align="center">
 	<a href="mailto:swayamgupta09@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Swayamgupta07"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/swayam-gupta-68b4b4274"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/swayam-gupta07/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -56,6 +66,10 @@ learning programming and web development..
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -63,6 +77,21 @@ learning programming and web development..
    </a>
 </p>
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://nodejs.org/" target="_blank"> 
+   <img alt="Node.js" src="https://img.shields.io/badge/node%20-%23E34F26.svg?style=plastic&logo=node.js&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express.js" src="https://img.shields.io/badge/express-%23404d59.svg?style=plastic&logo=express&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a>
+</p>
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
@@ -77,23 +106,20 @@ learning programming and web development..
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> 
+   </a>
+  &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-  &emsp;
-<a href="https://www.java.com/" target="_blank"> 
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
-</a>
-
-  </a>
 </p>
-
-
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
@@ -101,7 +127,7 @@ learning programming and web development..
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-   
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 
 
 </p>
@@ -130,7 +156,7 @@ learning programming and web development..
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayamgupta07&theme=tokyonight_duo" alt="Swayamgupta075" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamgupta07&theme=tokyonight_duo" alt="swayamgupta07" /></p>
 
 </details>
   
@@ -140,8 +166,8 @@ learning programming and web development..
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Swayam Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swayamgupta07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayamgupta07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Swayam" height="230px"/>
+	    <img alt="Swayam Github Stats" src="https://github-readme-stats.vercel.app/api?username=swayamgupta07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamgupta07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="swayam" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -152,7 +178,7 @@ learning programming and web development..
 
 ----
 	
-[![pydeep9026's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swayamgupta07&theme=github	)](https://github.com/Swayamgupta07/github-readme-activity-graph)
+[![pydeep9026's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swayamgupta07&theme=github	)](https://github.com/swayamgupta07/github-readme-activity-graph)
 
  
 </details>
@@ -160,8 +186,10 @@ learning programming and web development..
 
 	
 
-</br>
-
-
-
-
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/swayamgupta07/pydeep9026/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
