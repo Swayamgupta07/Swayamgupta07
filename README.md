@@ -159,6 +159,4 @@ I’ve worked with various technologies including:
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	![snake gif](https://github.com/Swayamgupta07/Swayamgupta07/blob/output/github-contribution-grid-snake.gif)
-</p>
+![snake gif](https://github.com/Swayamgupta07/Swayamgupta07/blob/output/github-contribution-grid-snake.gif)
