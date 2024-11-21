@@ -33,8 +33,6 @@ I’ve worked with various technologies including:
 
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/17846298/Resume.pdf)
-)
-
 
 
 
