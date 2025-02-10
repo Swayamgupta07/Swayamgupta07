@@ -32,7 +32,7 @@ I’ve worked with various technologies including:
 - **Others:**  API Development
 
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/17849920/Resume.pdf)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/18733952/Resume.pdf)
 
 
 
