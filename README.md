@@ -32,8 +32,7 @@ I’ve worked with various technologies including:
 - **Others:**  API Development
 
 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]((https://github.com/user-attachments/files/19284470/Swayam_Gupta_Resume.pdf))
-
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/19284470/Swayam_Gupta_Resume.pdf)
 
 
 - :boom: You can visit [my website](https://swayamgupta.netlify.app/index.html#home).
