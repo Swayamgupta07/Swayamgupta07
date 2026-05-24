@@ -144,11 +144,17 @@ I’ve worked with various technologies including:
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamgupta07&show_icons=true&locale=en&layout=compact" alt="swayamgupta07" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swayamgupta07&show_icons=true&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamgupta07&show_icons=true&locale=en" alt="swayamgupta07" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamgupta07&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamgupta07&" alt="swayamgupta07" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamgupta07&layout=compact&theme=tokyonight" />
+</p>
 
 
 	
