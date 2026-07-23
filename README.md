@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swayam Gupta</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+MEAN/MERN);Project+Engineer+%40+Wipro;React+%2B+Node.js+%2B+AI+Enthusiast;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular);Project+Engineer+%40+Wipro;React+%2B+Node.js+%2B+AI+Enthusiast; alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+%2B+MEAN);React+%2B+Node.js+%2B+AI+Enthusiast;Problem+Solver+%2B+IEEE+Published+Author">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+%2B+MEAN);React+%2B+Node.js+%2B+AI+Enthusiast;Problem+Solver+%2B+IEEE+Published+Author" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,8 +18,13 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260px" alt="Coding GIF">
 </picture>
 
-I am a passionate **Full-Stack Software Engineer**, with experience in building enterprise cross-platform applications, RESTful APIs, and AI integrations.
-⚙️ **Core Stack:** ASP.NET Core (.NET 8), Angular, React.js, Node.js, MongoDB, MySQL, Docker, C++, Python.
+I am a passionate **Full-Stack Software Engineer** specializing in building scalable enterprise web applications, high-performance RESTful APIs, and AI-driven solutions.
+
+- 💻 **Full-Stack Engineering:** Built production-grade web applications using **ASP.NET Core (.NET 8)**, **Angular**, **React.js**, and **Node.js**.
+- 🚀 **Architecture & Optimization:** Experienced in microservices, RESTful API design, database query optimization (**MySQL, MongoDB**), and containerization with **Docker & Nginx**.
+- 🔬 **AI & Research:** Published Author in **IEEE Xplore** and experienced in ML pipeline engineering, signal processing, and AI API integrations.
+- ⚙️ **Core Stack:** .NET Core, Angular, React.js, Node.js, Express, C#, C++, Python, TypeScript, Docker, SQL, MongoDB.
+
 🌐 **Portfolio:** [swayam-gupta-portfolio.vercel.app](https://swayam-gupta-portfolio.vercel.app/)  
 📄 **Resume:** [View My Resume](https://github.com/user-attachments/files/30298505/Swayam.Resume.pdf)
 
