@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swayam Gupta</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+%2B+MEAN);React+%2B+Node.js+%2B+AI+Enthusiast;Problem+Solver+%2B+IEEE+Published+Author">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+%2B+MEAN);React+%2B+Node.js+%2B+AI+Enthusiast;Problem+Solver+%2B+IEEE+Published+Author" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+%2B+MEAN);React+%2B+Node.js+%2B+AI+Enthusiast;Problem+Solver+%2B+Critical+Thinking">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+(.NET+%2B+Angular+%2B+MEAN);React+%2B+Node.js+%2B+AI+Enthusiast;Problem+Solver+%2B+Critical+Thinking" alt="Typing SVG" />
   </a>
 </p>
 
