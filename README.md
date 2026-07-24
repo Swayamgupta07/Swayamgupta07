@@ -104,7 +104,6 @@ I am a passionate **Full-Stack Software Engineer** specializing in building scal
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayamgupta07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamgupta07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
